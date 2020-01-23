@@ -1,0 +1,34 @@
+{"dataPoints":[
+  {
+    "label": "Ingresos Tributarios",
+    "y": "7"
+  },
+  {
+    "label": "Ingresos No Tributarios",
+    "y": "2"
+  },
+  {
+    "label": "Venta de Bienes y Servicios",
+    "y": "15"
+  },
+  {
+    "label": "Transferencias Corrientes",
+    "y": "2"
+  },
+  {
+    "label": "Transferencias de Capital",
+    "y": "1"
+  },
+  {
+    "label": "Disminución de la Inversión Financiera",
+    "y": "5"
+  },
+  {
+    "label": "Disminución de la Inversión Financiera",
+    "y": "4"
+  },
+  {
+    "label": "Endeudamiento Público e Increm de Otros Pasivos",
+    "y": "1"
+  }
+]}

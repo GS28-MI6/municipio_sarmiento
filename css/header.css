@@ -1,0 +1,254 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+/*HEADER*/
+header{
+    background-color: rgb(242, 239, 233);
+}
+/*TITULAR*/
+.titular {
+    box-sizing: border-box;
+    height: 150px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 5%;
+    align-items: center; 
+}
+.titular .logo_muni {
+    width: 200px;
+    height: 85px;
+}
+.redes {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    width: 235px;
+}
+.redes .facebook {
+    width: 27px;
+}
+.redes .instagram {
+    width: 40px
+}
+.redes .twitter {
+    width: 48px;
+}
+
+/*BARRA DE NAVEGACION*/
+.left{
+    right: 0px;
+}
+.navNoB {
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: rgb(92, 159, 214);
+    width: 100%;
+    height: 50px;
+    overflow: visible;
+    display:block;
+    /*text-transform: uppercase;*/
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-family: 'Raleway', sans-serif;
+}
+.navNoB a{
+    text-decoration: none;
+    color: black;
+}
+.navNoB .link {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 0;
+}
+
+.navNoB  ul {
+    display: flex;
+    justify-content: center;
+    padding:0 !important;
+}
+.navNoB ul li{
+    width: 20%;
+}
+ul , ol {
+    list-style: none;
+    text-decoration: none;
+}
+.navNoB .buttonNoB {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 48px;
+    overflow: visible;
+}
+
+.navNoB li .dropdown{
+    display: block;
+    position: absolute;
+    overflow: visible;
+    background-color: rgb(92, 159, 214);
+    z-index: 1;
+    box-shadow: -0.3px 0.3px 12px #8a8a8a;
+    padding-left: 1px;
+    width:inherit;
+}
+.navNoB li .dropdown li{
+    width:100%;
+}
+.navNoB li .hide{
+    display: none;
+}
+.navNoB li ul li{
+    border-bottom: 1px solid #707070;
+    display: flex;
+    align-items: center;
+    width: 240px;
+    height: 50px;
+    padding-left: 5px;
+    overflow: visible;
+    justify-content: flex-start;
+}
+.navNoB li ul li .linkDropdown{
+    display: flex;
+    width: 100%!important;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-start;
+}
+.navNoB li:hover{
+    background-color: rgb(118, 170, 212);
+}
+/*
+nav li:hover ul{
+    display: block;
+}
+*/
+.navNoB  p {
+    font-size: 20px; 
+}
+.navNoB .ref_nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 240px;
+    height: 70px;
+}
+.navNoB .button_nav img {
+    opacity: 1;
+    height: 15px;
+    width: 27px;
+}
+
+.navNoB .buttonNoB:hover{
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+    border-color: #707070;
+    transition: border 2s;
+}
+.navNoB .ref_nav:hover{
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+    border-color: #707070;
+    transition: border 2s;
+}
+.navNoB i{
+    padding-right: 20px;
+}
+
+.toggler {
+    display: none;
+}
+
+/* efectos del menu */
+
+@media screen and (max-width:801px) {
+    .titular{
+        display: none;
+    }
+    .principal{
+        padding: 5px;
+    }
+    .toggler{
+        display: flex;
+        background-color: rgb(92, 159, 214);
+        width: 100%;
+        height: 50px;
+        box-sizing: border-box;
+        justify-content: space-between;
+        align-items: center;
+        text-transform: uppercase;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+    .toggler img{
+        height: 90%;
+        width: auto;
+        margin-left: 5%;
+    }
+    .toggler a{
+        color: black;
+        margin-right: 5%;
+    }
+    .dropdown{
+        padding-left:7px;
+    }
+    .navNoB{
+        display: block;
+        z-index: 1000;
+        width: 70%;
+        height: 100%;
+        position: fixed;
+        left:-100%;
+    }
+
+    .navNoB .buttonNoB {
+        justify-content: space-between;
+    }
+    .navNoB .buttonNoB a{
+        justify-content: flex-start;
+        margin-left: 5%;
+    }
+    .navNoB .buttonNoB img{
+        margin-right: 5%;
+    }
+    .navNoB ul {
+        flex-wrap: wrap;
+    }
+    .navNoB ul li{
+        width: 100%;
+        display: block;
+    }
+    .navNoB li .dropdown{
+        display: block;
+        position: relative;
+        overflow: visible;
+        background-color: rgb(92, 159, 214);
+        box-shadow: none;
+    }
+    .navNoB li .hide{
+        display: none;
+    }
+    .navNoB li ul li{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding-left: 20px;
+        overflow: visible;
+        justify-content: space-between;
+        border-bottom: 0;
+        border-left: 3px;
+        border-color: #707070;
+    }
+
+    .navNoB li ul li a{
+        margin-left: 1%;
+        margin-right: 1%;
+        font-size: 14px;
+    }
+}

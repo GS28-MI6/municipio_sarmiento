@@ -1,0 +1,104 @@
+/* CAROUSEL */
+
+.carousel{
+	display: block;
+	height: 500px;
+}
+
+.carousel-inner{
+	height: 500px;
+}
+
+.carousel-item{
+	height: 100%;
+}
+
+.carousel-caption{
+	bottom:0px;
+	right: 0;
+	left: 0;
+	height: 30%;
+	width: 100%;
+	background-color: rgba(255, 255 , 255, 75%)!important;
+}
+.myImg{
+	height: 100%;
+	width: auto;
+	max-height: 100%;
+	max-width: 100%;
+	display: block;
+}
+
+/* AREAS */
+
+.img-thumbnail {
+	padding: 0 !important;
+	border: 0!important;
+}
+
+.card-img-overlay{
+	padding: 0!important;
+	height: 45px;
+	position: unset;
+	z-index: 20;
+}
+
+.btn{
+	border-radius: 0!important;
+}
+
+.card{
+	overflow: hidden;
+	height: 240px;
+}
+.card img{
+    width: 100%;
+	height: 200px!important;
+	border-radius: 0!important;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	z-index: 10;
+}
+
+.card:hover img{
+    -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.card-deck{
+	width: 100%;
+	overflow: hidden;
+	margin-right: 0px!important;
+	margin-left: 0px!important;
+	padding-right: 0px!important;
+	padding-left: 0px!important;
+}
+@media screen and (max-width:801px){
+	.carousel{
+		display: block;
+		height: 250px;
+	}
+	.carousel-inner{
+		height: 100%;
+		display: block;
+		position: absolute;
+	}
+	.carousel-item{
+		height: 100%;
+	}
+	.carousel-caption{
+		padding-top: 7px;
+		padding-bottom: 7px;
+	}
+	.carousel-indicators{
+		bottom: -40px;
+	}
+	.textoTitulo{
+		font: normal bold 16px 'Roboto', sans-serif;
+	}
+	.subTexto{
+		font: normal 16px 'Roboto', sans-serif;
+	}
+}

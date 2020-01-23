@@ -1,0 +1,803 @@
+# Translation of Themes - Atomic Blocks in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Atomic Blocks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-08 12:15:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Atomic Blocks\n"
+
+#. Description of the theme
+msgid "A beautifully-simple yet powerful WordPress theme that integrates perfectly with the new Gutenberg editor and the Atomic Blocks plugin. Start building amazing websites with the new WordPress editor today! Atomic Blocks comes with theme options to customize your font style, body and title font sizes, content width and more! Install the Atomic Blocks plugin (atomicblocks.com) to add even more page-building blocks such as testimonials, sharing icons, notices, call to actions, buttons and more. Theme Demo: https://preview.arraythemes.com/atomicblocks"
+msgstr "Un tema de WordPress preciosamente simple a la vez que potente que se integra perfectamente con el nuevo editor Gutenberg y el plugin Atomic Blocks. ¡Empieza a construir hoy webs sorprendentes con el nuevo editor de WordPress! Atomic Blocks viene con opciones del tema para personalizar el estilo de fuente, tamaños de fuente en título y cuerpo, ancho del contenido ¡y más! Instala el plugin Atomic Blocks (atomicblocks.com) para añadir aún más bloques para montar páginas como los de recomendaciones, iconos de compartir, avisos, llamadas a la acción, botones y más. Demo del tema: https://preview.arraythemes.com/atomicblocks"
+
+#: template-parts/content-meta.php:8 template-parts/content-meta.php:11
+msgid ", "
+msgstr ", "
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Maquetador de páginas"
+
+#: template-parts/content.php:44 template-parts/content-page.php:32
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content.php:40 template-parts/content-page.php:28
+msgid "Read More"
+msgstr "Leer más"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. A lo mejor la búsqueda te ayuda."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-meta.php:32 template-parts/content-meta.php:56
+msgid "Tag:"
+msgstr "Etiqueta:"
+
+#: template-parts/content-meta.php:21 template-parts/content-meta.php:41
+msgid "Category:"
+msgstr "Categoría:"
+
+#: template-parts/content-menu-drawer.php:18
+msgid "Close"
+msgstr "Cerrar"
+
+#: template-parts/content-menu-drawer.php:14
+msgid "Menu"
+msgstr "Menú"
+
+#: searchform.php:16
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:13
+msgid "Search here..."
+msgstr "Busca aquí…"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Búsqueda para:"
+
+#: search.php:23 template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no se ha encontrado nada que coincida con tus términos de búsqueda. Por favor inténtalo de nuevo con otras palabras clave diferentes."
+
+#: inc/template-tags.php:214
+msgid "on"
+msgstr "el"
+
+#: inc/template-tags.php:182
+msgid "All Posts"
+msgstr "Todas las entradas"
+
+#: inc/template-tags.php:173
+msgid "Posted by %s"
+msgstr "Publicado por %s"
+
+#: inc/template-tags.php:171
+msgid "All posts by %s"
+msgstr "Todas las entradas de %s"
+
+#: inc/template-tags.php:166 inc/template-tags.php:206
+msgid "Posts by %s"
+msgstr "Entradas de %s"
+
+#: inc/template-tags.php:147
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: inc/template-tags.php:146
+msgid "Previous:"
+msgstr "Anterior:"
+
+#: inc/template-tags.php:144
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: inc/template-tags.php:143
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: inc/template-tags.php:123
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/template-tags.php:112
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:112
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/template-tags.php:88
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+#: inc/template-tags.php:86
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/jetpack.php:62
+msgid "Load more"
+msgstr "Cargar más"
+
+#: inc/customizer.php:209
+msgid "Change the text that appears in the footer tagline at the bottom of your site."
+msgstr "Cambia el texto que aparece en el mensaje del pie de página en la parte inferior de tu sitio."
+
+#: inc/customizer.php:206
+msgid "Footer Tagline"
+msgstr "Mensaje del pie de página"
+
+#: inc/customizer.php:187
+msgid "Adjust the size of the post and page titles."
+msgstr "Ajusta el tamaño de los títulos de entradas y páginas."
+
+#: inc/customizer.php:186
+msgid "Title Font Size"
+msgstr "Tamaño de la fuente del título"
+
+#: inc/customizer.php:166
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/customizer.php:165
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/customizer.php:160
+msgid "Choose the font style used across your site."
+msgstr "Elige el estilo de la fuente que se utilice en todo tu sitio."
+
+#: inc/customizer.php:159
+msgid "Font Style"
+msgstr "Estilo de la fuente"
+
+#: inc/customizer.php:142
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/customizer.php:141
+msgid "Enabled"
+msgstr "Activado"
+
+#: inc/customizer.php:136
+msgid "Add a search icon to your header menu area."
+msgstr "Añadir un icono de búsqueda a tu área de menú de la cabecera."
+
+#: inc/customizer.php:135
+msgid "Search Icon"
+msgstr "Icono de búsqueda"
+
+#: inc/customizer.php:113
+msgid "Adjust the width of the content area."
+msgstr "Ajusta el ancho del área de contenido."
+
+#: inc/customizer.php:112
+msgid "Content Width"
+msgstr "Ancho del contenido"
+
+#: inc/customizer.php:92
+msgid "Change the accent color of buttons and various typographical elements."
+msgstr "Cambia el color de acentuación de los botones y de varios elementos tipográficos."
+
+#: inc/customizer.php:89
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: inc/customizer.php:76
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/admin/getting-started/getting-started.php:708
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/admin/getting-started/getting-started.php:707
+msgid "Docs"
+msgstr "Documentación"
+
+#: inc/admin/getting-started/getting-started.php:706
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/admin/getting-started/getting-started.php:705
+msgid "AtomicBlocks.com"
+msgstr "AtomicBlocks.com"
+
+#: inc/admin/getting-started/getting-started.php:703
+msgid "Made by the fine folks at %1$s and %2$s."
+msgstr "Hecho por la gente maja de %1$s y %2$s."
+
+#: inc/admin/getting-started/getting-started.php:698
+msgid "Visit Gutenberg News"
+msgstr "Visita Gutenberg News"
+
+#: inc/admin/getting-started/getting-started.php:697
+msgid "Stay up to date with the new WordPress editor. Gutenberg News curates Gutenberg articles, tutorials, videos and more free resources."
+msgstr "Mantente al día con el nuevo editor de WordPress. Gutenberg News hace la curación de artículos, tutoriales, vídeos y más recursos gratuitos sobre Gutenberg."
+
+#: inc/admin/getting-started/getting-started.php:696
+msgid "Gutenberg News"
+msgstr "Gutenberg News"
+
+#: inc/admin/getting-started/getting-started.php:691
+msgid "Visit the Blog"
+msgstr "Visita el blog"
+
+#: inc/admin/getting-started/getting-started.php:689
+msgid "Articles & Tutorials"
+msgstr "Artículos y tutoriales"
+
+#: inc/admin/getting-started/getting-started.php:684
+msgid "Subscribe Today"
+msgstr "Suscríbete hoy"
+
+#: inc/admin/getting-started/getting-started.php:682
+msgid "Blocks In Your Inbox"
+msgstr "Bloques en tu bandeja de entrada"
+
+#: inc/admin/getting-started/getting-started.php:677
+msgid "Free Blocks and Resources"
+msgstr "Bloques y recursos gratuitos"
+
+#: inc/admin/getting-started/getting-started.php:670
+msgid "Visit AtomicBlocks.com"
+msgstr "Visita AtomicBlocks.com"
+
+#: inc/admin/getting-started/getting-started.php:669
+#: inc/admin/getting-started/getting-started.php:690
+msgid "Check out the Atomic Blocks site to find block editor tutorials, free blocks and updates about the Atomic Blocks plugin and theme!"
+msgstr "¡Echa un ojo al sitio de Atomic Blocks para encontrar tutoriales sobre el editor de bloques, bloques gratis y actualizaciones sobre el plugin y el tema de Atomic Blocks!"
+
+#: inc/admin/getting-started/getting-started.php:664
+msgid "Free Blocks & Tutorials"
+msgstr "Bloques y tutoriales gratis"
+
+#: inc/admin/getting-started/getting-started.php:655
+msgid "Subscribe Now"
+msgstr "Suscríbete ahora"
+
+#: inc/admin/getting-started/getting-started.php:654
+#: inc/admin/getting-started/getting-started.php:683
+msgid "Join the newsletter to receive emails when we add new blocks, release plugin and theme updates, send out free resources, and more!"
+msgstr "Únete al boletín para recibir correos electrónicos cuando añadamos nuevos bloques, lancemos actualizaciones del plugin y el tema, enviemos recursos gratis, ¡y más!"
+
+#: inc/admin/getting-started/getting-started.php:649
+msgid "Stay Updated"
+msgstr "Mantente actualizado"
+
+#: inc/admin/getting-started/getting-started.php:634
+msgid "Install Atomic Blocks now"
+msgstr "Instala Atomic Blocks ahora"
+
+#: inc/admin/getting-started/getting-started.php:631
+msgid "Atomic Blocks adds several handy content blocks to the Gutenberg block editor."
+msgstr "Atomic Blocks añade varios bloques útiles de contenido al editor de bloques Gutenberg."
+
+#: inc/admin/getting-started/getting-started.php:630
+msgid "2. Install the Atomic Blocks plugin."
+msgstr "2. Instala el plugin Atomic Blocks."
+
+#: inc/admin/getting-started/getting-started.php:623
+msgid "Activate Gutenberg"
+msgstr "Activa Gutenberg"
+
+#: inc/admin/getting-started/getting-started.php:621
+msgid "Install Gutenberg now"
+msgstr "Instala Gutenberg ahora"
+
+#: inc/admin/getting-started/getting-started.php:618
+msgid "Gutenberg adds the new block-based editor to WordPress. You will need this to work with the Atomic Blocks plugin."
+msgstr "Gutenberg añade el nuevo editor basado en bloques a WordPress. Necesitarás esto para trabajar con el plugin Atomic Blocks."
+
+#: inc/admin/getting-started/getting-started.php:617
+msgid "1. Install the Gutenberg plugin."
+msgstr "1. Instala el plugin Gutenberg."
+
+#: inc/admin/getting-started/getting-started.php:612
+msgid "Quick Start Checklist"
+msgstr "Lista de comprobación para empezar rápidamente"
+
+#: inc/admin/getting-started/getting-started.php:599
+msgid "A fully-featured landing page theme with MailChimp and Campaign Monitor subscription support."
+msgstr "Un tema de página de aterrizaje con un montón de características, compatible con suscripción a través de MailChimp y Campaign Monitor."
+
+#: inc/admin/getting-started/getting-started.php:595
+#: inc/admin/getting-started/getting-started.php:598
+msgid "Transmit WordPress Theme"
+msgstr "Tema de WordPress Transmit"
+
+#: inc/admin/getting-started/getting-started.php:589
+msgid "Use Fixed as a personal blog or a minimal portfolio to share your latest articles, photo galleries and videos."
+msgstr "Utiliza Fixed como un blog personal o un porfolio minimalista para compartir tus últimos artículos, galerías de fotos y vídeos."
+
+#: inc/admin/getting-started/getting-started.php:585
+#: inc/admin/getting-started/getting-started.php:588
+msgid "Fixed WordPress Theme"
+msgstr "Tema de WordPress Fixed"
+
+#: inc/admin/getting-started/getting-started.php:579
+msgid "A blank canvas for your thoughts. Author features clean, readable type and abundant white space."
+msgstr "Un lienzo en blanco para tus pensamientos. Author destaca por ser limpio, usar tipografía fácil de leer y tener abundante espacio en blanco."
+
+#: inc/admin/getting-started/getting-started.php:575
+#: inc/admin/getting-started/getting-started.php:578
+msgid "Author WordPress Theme"
+msgstr "Tema de WordPress Author"
+
+#: inc/admin/getting-started/getting-started.php:569
+msgid "Use Medium as a personal blog or a minimal portfolio to share your latest articles, photo galleries and videos."
+msgstr "Utiliza medium como un blog personal o un porfolio minimalista para compartir tus últimos artículos, galerías de fotos y vídeos."
+
+#: inc/admin/getting-started/getting-started.php:565
+#: inc/admin/getting-started/getting-started.php:568
+msgid "Medium WordPress Theme"
+msgstr "Tema de WordPress Medium"
+
+#: inc/admin/getting-started/getting-started.php:559
+msgid "A lean, mean blogging machine with snappy AJAX post loading, a dynamic header and abundant white space."
+msgstr "Una máquina sencilla y austera para bloguear con carga rápida de contenidos con AJAX, una cabecera dinámica y abundante espacio en blanco."
+
+#: inc/admin/getting-started/getting-started.php:555
+#: inc/admin/getting-started/getting-started.php:558
+msgid "Typable WordPress Theme"
+msgstr "Tema de WordPress Typable"
+
+#: inc/admin/getting-started/getting-started.php:549
+msgid "Quickly and easily showcase your latest design work, sketches, audio, photography and more."
+msgstr "Muestra rápidamente y de manera sencilla tus últimos trabajos de diseño, bocetos, audios, fotografías y más."
+
+#: inc/admin/getting-started/getting-started.php:545
+#: inc/admin/getting-started/getting-started.php:548
+msgid "Verb WordPress Theme"
+msgstr "Tema de WordPress Verb"
+
+#: inc/admin/getting-started/getting-started.php:539
+msgid "A portfolio and business theme with an emphasis on beautiful, legible typography and a graceful mobile experience."
+msgstr "Un tema de negocios y porfolio con énfasis en tipografía bonita y legible y una experiencia móvil elegante."
+
+#: inc/admin/getting-started/getting-started.php:535
+#: inc/admin/getting-started/getting-started.php:538
+msgid "Ampersand WordPress Theme"
+msgstr "Tema de WordPress Ampersand"
+
+#: inc/admin/getting-started/getting-started.php:529
+msgid "Featuring a responsive, masonry-style layout, Publisher is an eclectic scrapbook of photos, videos, audio and more."
+msgstr "Con una estructura adaptable y de estilo muro, Publisher es un libro de recortes ecléctico de fotos, vídeos, audios y más."
+
+#: inc/admin/getting-started/getting-started.php:525
+#: inc/admin/getting-started/getting-started.php:528
+msgid "Publisher WordPress Theme"
+msgstr "Tema de WordPress Publisher"
+
+#: inc/admin/getting-started/getting-started.php:519
+msgid "A contemporary, clean and bold canvas for showing off your latest projects, photographs or video reels."
+msgstr "Un lienzo contemporáneo, limpio y llamativo para mostrar tus últimos proyectos, fotografías o carruseles de vídeos."
+
+#: inc/admin/getting-started/getting-started.php:515
+#: inc/admin/getting-started/getting-started.php:518
+msgid "North WordPress Theme"
+msgstr "Tema de WordPress North"
+
+#: inc/admin/getting-started/getting-started.php:509
+msgid "Editor is a typography-driven theme that puts bold and beautiful publishing right at your fingertips."
+msgstr "Editor es un tema enfocado en la tipografía que pone una publicación bonita y llamativa en la punta de tus dedos."
+
+#: inc/admin/getting-started/getting-started.php:505
+#: inc/admin/getting-started/getting-started.php:508
+msgid "Editor WordPress Theme"
+msgstr "Tema de WordPress Editor"
+
+#: inc/admin/getting-started/getting-started.php:499
+msgid "Minimalist photoblogging at its finest. Highlight your writing with beautiful, expressive featured images."
+msgstr "Fotoblogging minimalista en estado puro. Haz que tu escritura destaque con imágenes destacadas bonitas y expresivas."
+
+#: inc/admin/getting-started/getting-started.php:495
+#: inc/admin/getting-started/getting-started.php:498
+msgid "Pocket WordPress Theme"
+msgstr "Tema de WordPress Pocket"
+
+#: inc/admin/getting-started/getting-started.php:489
+msgid "Designer enables you to quickly and easily showcase your latest design work, sketches, audio, photography and more."
+msgstr "Designer te permite mostrar de manera rápida y sencilla tus últimos trabajos de diseño, bocetos, audios, fotografías y más."
+
+#: inc/admin/getting-started/getting-started.php:485
+#: inc/admin/getting-started/getting-started.php:488
+msgid "Designer WordPress Theme"
+msgstr "Tema de WordPress Designer"
+
+#: inc/admin/getting-started/getting-started.php:479
+msgid "Create a beautifully minimal and distraction-free photography series or photo blog with Camera."
+msgstr "Crea con Camera una serie de fotos preciosamente minimalistas y sin distracciones o un blog de fotografía."
+
+#: inc/admin/getting-started/getting-started.php:475
+#: inc/admin/getting-started/getting-started.php:478
+msgid "Camera WordPress Theme"
+msgstr "Tema de WordPress Camera"
+
+#: inc/admin/getting-started/getting-started.php:469
+msgid "With Checkout and Easy Digital Downloads, you can turn your site into a handsome digital store or marketplace."
+msgstr "Con Checkout y Easy Digital Downloads puedes convertir tu sitio en una bonita tienda digital o en un mercado."
+
+#: inc/admin/getting-started/getting-started.php:465
+#: inc/admin/getting-started/getting-started.php:468
+msgid "Checkout WordPress Theme"
+msgstr "Tema de WordPress Checkout"
+
+#: inc/admin/getting-started/getting-started.php:459
+msgid "Quickly and easily create beautiful content-focused website with images, galleries, video, audio and more."
+msgstr "Crea de manera rápida y sencilla una web centrada en el contenido con imágenes, galerías, vídeos, audios y más."
+
+#: inc/admin/getting-started/getting-started.php:455
+#: inc/admin/getting-started/getting-started.php:458
+msgid "Candid WordPress Theme"
+msgstr "Tema de WordPress Candid"
+
+#: inc/admin/getting-started/getting-started.php:449
+msgid "A magazine theme that empowers you to quickly and easily create beautiful, immersive content."
+msgstr "Un tema revista que te anima a crear de manera rápida y sencilla contenidos bonitos e inmersivos."
+
+#: inc/admin/getting-started/getting-started.php:445
+#: inc/admin/getting-started/getting-started.php:448
+msgid "Paperback WordPress Theme"
+msgstr "Tema de WordPress Paperback"
+
+#: inc/admin/getting-started/getting-started.php:439
+msgid "A beautiful, magazine-style theme with multiple layouts, featured content areas and simple customization options."
+msgstr "Un tema bonito, de estilo revista, con múltiples estructuras, áreas de contenido destacadas y opciones simples de personalización."
+
+#: inc/admin/getting-started/getting-started.php:435
+#: inc/admin/getting-started/getting-started.php:438
+msgid "Baseline WordPress Theme"
+msgstr "Tema de WordPress Baseline"
+
+#: inc/admin/getting-started/getting-started.php:429
+msgid "A bold, magazine-style WordPress theme for creating engaging, media-rich content that integrates with the number one eCommerce plugin on the planet, WooCommerce."
+msgstr "Un tema de WordPress de estilo revista llamativo para crear contenido que enganche, rico en medios, que se integra con el plugin de comercio electrónico número uno del planeta, WooCommerce."
+
+#: inc/admin/getting-started/getting-started.php:425
+#: inc/admin/getting-started/getting-started.php:428
+msgid "Lenscap WordPress Theme"
+msgstr "Tema de WordPress Lenscap"
+
+#: inc/admin/getting-started/getting-started.php:419
+msgid "Build a bold business or portfolio site with beautiful templates for teams, services, testimonials, portfolio, blog posts and more."
+msgstr "Construye un sitio llamativo para tu negocio o un porfolio con bonitas plantillas para equipos, servicios, recomendaciones, porfolio, entradas de blog y más."
+
+#: inc/admin/getting-started/getting-started.php:415
+#: inc/admin/getting-started/getting-started.php:418
+msgid "Atomic WordPress Theme"
+msgstr "Tema de WordPress Atomic"
+
+#: inc/admin/getting-started/getting-started.php:409
+msgid "Launch a stunning portfolio and resume site to showcase your photos, designs, videos, services and more."
+msgstr "Lanza un porfolio deslumbrante y un sitio resumen para mostrar tus fotos, diseños, vídeos, servicios y más."
+
+#: inc/admin/getting-started/getting-started.php:405
+#: inc/admin/getting-started/getting-started.php:408
+msgid "Meteor WordPress Theme"
+msgstr "Tema de WordPress Meteor"
+
+#: inc/admin/getting-started/getting-started.php:399
+msgid "Launch a beautiful eCommerce shop, an impressive magazine, or a food or travel blog with Latest."
+msgstr "Lanza una bonita tienda de comercio electrónico, una revista impresionante o un blog de comida o viajes con Latest."
+
+#: inc/admin/getting-started/getting-started.php:395
+#: inc/admin/getting-started/getting-started.php:398
+msgid "Latest WordPress Theme"
+msgstr "Tema de WordPress Latest"
+
+#: inc/admin/getting-started/getting-started.php:389
+msgid "A free Gutenberg theme that works seamlessly with the new WordPress editor and the Atomic Blocks plugin by Array Themes."
+msgstr "Un tema gratuito para Gutenberg que funciona sin problemas con el nuevo editor de WordPress y el plugin Atomic Blocks de Array Themes."
+
+#: inc/admin/getting-started/getting-started.php:385
+#: inc/admin/getting-started/getting-started.php:388
+msgid "Atomic Blocks WordPress Theme"
+msgstr "Tema de WordPress Atomic Blocks"
+
+#: inc/admin/getting-started/getting-started.php:380
+msgid "Instantly download the best-designed WordPress theme collection on the web for one low price!"
+msgstr "¡Descarga al instante la colección de temas para WordPress mejor diseñados de la web por un precio bajo!"
+
+#: inc/admin/getting-started/getting-started.php:379
+msgid "More WordPress themes by Array"
+msgstr "Más temas de WordPress de Array"
+
+#: inc/admin/getting-started/getting-started.php:372
+msgid "Array Themes"
+msgstr "Array Themes"
+
+#: inc/admin/getting-started/getting-started.php:367
+msgid "View Theme Collection &rarr;"
+msgstr "Ver la colección de temas &rarr;"
+
+#: inc/admin/getting-started/getting-started.php:366
+msgid "Launch your website in minutes with one of our beautiful, responsive themes. No bloat, no headaches, just really good websites and speedy support when you need it."
+msgstr "Lanza tu web en minutos con uno de nuestros temas adaptables y bonitos. Sin cosas inútiles, sin dolores de cabeza, simplemente webs realmente buenas y un soporte rápido cuando lo necesites."
+
+#: inc/admin/getting-started/getting-started.php:365
+msgid "We also create pixel-perfect WordPress themes for creative professionals."
+msgstr "También creamos temas de WordPress perfectos al píxel para profesionales creativos."
+
+#: inc/admin/getting-started/getting-started.php:234
+msgid "Add an adjustable spacer between your blocks with an optional divider with styling options."
+msgstr "Añade un espaciador ajustable entre tus bloques con un separador opcional y opciones de estilos."
+
+#: inc/admin/getting-started/getting-started.php:233
+msgid "Spacer & Divider"
+msgstr "Espaciador y separador"
+
+#: inc/admin/getting-started/getting-started.php:231
+msgid "Spacer and Divider Block"
+msgstr "Bloque espaciador y separador"
+
+#: inc/admin/getting-started/getting-started.php:226
+msgid "Add a stylized drop cap to the beginning of your paragraph. Choose from three different styles."
+msgstr "Añade una letra mayúscula con un estilo al inicio de tu párrafo. Elige entre tres estilos diferentes."
+
+#: inc/admin/getting-started/getting-started.php:223
+#: inc/admin/getting-started/getting-started.php:225
+msgid "Drop Cap Block"
+msgstr "Bloque de letra mayúscula inicial"
+
+#: inc/admin/getting-started/getting-started.php:218
+msgid "Add a fancy stylized button to your post or page with size, shape, target, and color options."
+msgstr "Añade un botón estilado sofisticadamente a tu entrada o página con opciones de tamaño, forma, destino y color."
+
+#: inc/admin/getting-started/getting-started.php:217
+msgid "Customizable Button"
+msgstr "Botón personalizable"
+
+#: inc/admin/getting-started/getting-started.php:215
+msgid "Customizable Button Block"
+msgstr "Bloque de botón personalizable"
+
+#: inc/admin/getting-started/getting-started.php:210
+msgid "Add an accordion text toggle with a title and descriptive text. Includes font size and toggle options."
+msgstr "Añade un texto que acciona el acordeón con un título y un texto descriptivo. Incluye opciones de tamaño de fuente y conmutación."
+
+#: inc/admin/getting-started/getting-started.php:209
+msgid "Accordion Block"
+msgstr "Bloque acordeón"
+
+#: inc/admin/getting-started/getting-started.php:207
+msgid "Accordion Toggle"
+msgstr "Conmutador del acordeón"
+
+#: inc/admin/getting-started/getting-started.php:202
+msgid "Add a user profile box to your site with a title, bio info, an avatar and social media links."
+msgstr "Añade una caja de perfil de usuario a tu sitio con un título, biografía, avatar y enlaces a redes sociales."
+
+#: inc/admin/getting-started/getting-started.php:199
+#: inc/admin/getting-started/getting-started.php:201
+msgid "Author Profile Block"
+msgstr "Bloque de perfil de autor"
+
+#: inc/admin/getting-started/getting-started.php:194
+msgid "Add social sharing icons to your page with size, shape, color and style options."
+msgstr "Añade iconos sociales de compartir a tu página con opciones de tamaño, forma, color y estilo."
+
+#: inc/admin/getting-started/getting-started.php:191
+#: inc/admin/getting-started/getting-started.php:193
+msgid "Sharing Icons Block"
+msgstr "Bloque de iconos de compartir"
+
+#: inc/admin/getting-started/getting-started.php:186
+msgid "Add a colorful notice or message to your site with text, a title and a dismiss icon."
+msgstr "Añade un aviso colorido o un mensaje a tu sitio con texto, título y un icono para cerrarlo."
+
+#: inc/admin/getting-started/getting-started.php:185
+msgid "Inline Notice Block"
+msgstr "Bloque de aviso integrado"
+
+#: inc/admin/getting-started/getting-started.php:183
+msgid "Inline Notices Block"
+msgstr "Bloque de avisos integrados"
+
+#: inc/admin/getting-started/getting-started.php:178
+msgid "Add a customer or client testimonial to your site with an avatar, text, citation and more."
+msgstr "Añade una recomendación de un cliente o comprador a tu sitio con un avatar, texto, cita y más."
+
+#: inc/admin/getting-started/getting-started.php:177
+msgid "Testimonial Block"
+msgstr "Bloque de recomendación"
+
+#: inc/admin/getting-started/getting-started.php:175
+msgid "Testimonials Block"
+msgstr "Bloque de recomendaciones"
+
+#: inc/admin/getting-started/getting-started.php:170
+msgid "Add an eye-catching, full-width section with a big title, paragraph text, and a customizable button."
+msgstr "Una sección de ancho completo que llama la atención con un título grande, un párrafo de texto y un botón personalizable."
+
+#: inc/admin/getting-started/getting-started.php:169
+msgid "Call-To-Action Block"
+msgstr "Bloque de llamada a la acción"
+
+#: inc/admin/getting-started/getting-started.php:167
+msgid "Call To Action Block"
+msgstr "Blocke de llamada a la acción"
+
+#: inc/admin/getting-started/getting-started.php:163
+msgid "The following blocks are available in Atomic Blocks. More blocks are on the way so stay tuned!"
+msgstr "Los bloques siguiente están disponibles en Atomic Blocks. ¡Más bloques vienen en camino así que permanece atento!"
+
+#: inc/admin/getting-started/getting-started.php:162
+msgid "Available Atomic Blocks"
+msgstr "Bloques de Atomic Blocks disponibles"
+
+#: inc/admin/getting-started/getting-started.php:155
+msgid "Atomic Blocks Theme"
+msgstr "Tema Atomic Blocks"
+
+#: inc/admin/getting-started/getting-started.php:149
+#: inc/admin/getting-started/getting-started.php:625
+#: inc/admin/getting-started/getting-started.php:638
+msgid "Plugin activated!"
+msgstr "¡Plugin activado!"
+
+#: inc/admin/getting-started/getting-started.php:147
+#: inc/admin/getting-started/getting-started.php:636
+msgid "Activate Atomic Blocks"
+msgstr "Activar Atomic Blocks"
+
+#: inc/admin/getting-started/getting-started.php:145
+msgid "Install Atomic Blocks"
+msgstr "Instalar Atomic Blocks"
+
+#: inc/admin/getting-started/getting-started.php:142
+msgid "Atomic Blocks is a free collection of beautiful page-building blocks for the new WordPress editor. Add sharing icons, buttons, accordions, call-to-actions, and more to your site! Integrates seamlessly with the Atomic Blocks theme!"
+msgstr "Atomic Blocks es una colección gratuita de bonitos bloques para construir páginas con el nuevo editor de WordPress. Añade iconos de compartir, botones, acordeones, llamadas a la acción, ¡y más a tu sitio! ¡Se integra sin problemas con el tema Atomic Blocks!"
+
+#: inc/admin/getting-started/getting-started.php:141
+msgid "Download the free Atomic Blocks plugin and start building websites with Gutenberg today!"
+msgstr "¡Descarga el plugin gratuito Atomic Blocks y empieza hoy a construir webs con Gutenberg!"
+
+#: inc/admin/getting-started/getting-started.php:132
+msgid "Get More Themes"
+msgstr "Consigue más temas"
+
+#: inc/admin/getting-started/getting-started.php:131
+msgid "Theme Help File"
+msgstr "Archivo de ayuda del tema"
+
+#: inc/admin/getting-started/getting-started.php:130
+msgid "Atomic Blocks Plugin"
+msgstr "Plugin Atomic Blocks"
+
+#: inc/admin/getting-started/getting-started.php:124
+msgid "Getting started with"
+msgstr "Primeros pasos con"
+
+#: inc/admin/getting-started/getting-started.php:123
+msgid "Visit Atomic Blocks"
+msgstr "Visita Atomic Blocks"
+
+#: inc/admin/getting-started/getting-started.php:78
+msgid "View Help File &rarr;"
+msgstr "Ver el archivo de ayuda &rarr;"
+
+#: inc/admin/getting-started/getting-started.php:77
+msgid "Atomic Blocks Activated! Get started by visiting the help file."
+msgstr "¡Atomic Blocks activado! Da tus primeros pasos viendo el archivo de ayuda."
+
+#. Theme Name of the theme
+#. Author of the theme
+#: inc/admin/getting-started/getting-started.php:51
+#: inc/admin/getting-started/getting-started.php:52
+#: inc/admin/getting-started/getting-started.php:124
+msgid "Atomic Blocks"
+msgstr "Atomic Blocks"
+
+#: functions.php:436
+msgid " Theme by %1$s."
+msgstr "Tema de %1$s."
+
+#: functions.php:192
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:191
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:182
+msgctxt "Frank Ruhl Libre font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:156
+msgid "Widgets added here will appear in the right column of the footer."
+msgstr "Los widgets que se añadan aquí aparecerán en la columna derecha del pie de página."
+
+#: functions.php:154
+msgid "Footer - Column 3"
+msgstr "Pie de página - Columna 3"
+
+#: functions.php:146
+msgid "Widgets added here will appear in the center column of the footer."
+msgstr "Los widgets que se añadan aquí aparecerán en la columna central del pie de página."
+
+#: functions.php:144
+msgid "Footer - Column 2"
+msgstr "Pie de página - Columna 2"
+
+#: functions.php:136
+msgid "Widgets added here will appear in the left column of the footer."
+msgstr "Los widgets que se añadan aquí aparecerán en la columna izquierda del pie de página."
+
+#: functions.php:134
+msgid "Footer - Column 1"
+msgstr "Pie de página - Columna 1"
+
+#: functions.php:92
+msgid "Social Icon Menu"
+msgstr "Menú de iconos sociales"
+
+#: functions.php:91
+msgid "Primary Menu"
+msgstr "Menú primario"
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados"
+
+#: comments.php:76
+msgid "Newer Comments"
+msgstr "Comentarios más nuevos"
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: comments.php:74
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:46
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s respuesta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respuestas a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:42
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a &ldquo;%s&rdquo;"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Please use the search box to locate the content you were looking for."
+msgstr "Parece que no se encontró nada en este lugar. Por favor, utiliza la caja de búsqueda para encontrar el contenido que estabas buscando."
+
+#. Author URI of the theme
+msgid "https://atomicblocks.com/"
+msgstr "https://atomicblocks.com/"
+
+#. Theme URI of the theme
+msgid "https://arraythemes.com/themes/atomic-blocks-wordpress-theme/"
+msgstr "https://arraythemes.com/themes/atomic-blocks-wordpress-theme/"
